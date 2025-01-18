@@ -1,0 +1,30 @@
+_repo: All-quiet-on-the-Western-Front_75011
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wheen, A. W.
+    gutenberg_agent_id: '57774'
+    url: http://www.gutenberg.org/2009/agents/57774
+creator:
+  author:
+    agent_name: Remarque, Erich Maria
+    gutenberg_agent_id: '57773'
+    url: http://www.gutenberg.org/2009/agents/57773
+description: ''
+gutenberg_issued: '2025-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75011'
+language: en
+pgterms:marc905: 20241222161949remarque
+pgterms:marc906: '1929'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bG. P. Putnam''s Sons, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: All quiet on the Western Front
+url: http://www.gutenberg.org/ebooks/75011
