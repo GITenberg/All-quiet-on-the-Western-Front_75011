@@ -5,12 +5,17 @@ contributor:
     agent_name: Wheen, A. W.
     gutenberg_agent_id: '57774'
     url: http://www.gutenberg.org/2009/agents/57774
+covers:
+- cover_type: archival
+  image_path: 75011-h/images/cover.jpg
 creator:
   author:
     agent_name: Remarque, Erich Maria
     gutenberg_agent_id: '57773'
     url: http://www.gutenberg.org/2009/agents/57773
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75011#All-quiet-on-the-Western-Front
 gutenberg_issued: '2025-01-01'
 gutenberg_type: Text
 identifiers:
